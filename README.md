@@ -3,6 +3,8 @@
 
 # Xylophone 🎹
 
+<img align="left" src= "images/xylophone.png" height=600px>
+
 
 ## What i will create
 
